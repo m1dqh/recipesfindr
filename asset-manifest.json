@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/recipesfindr/static/css/main.f64bad81.css",
+    "main.js": "/recipesfindr/static/js/main.2952af88.js",
+    "static/media/hero.jpg": "/recipesfindr/static/media/hero.f9205299e47d4cb52a5c.jpg",
+    "static/media/header-logo.png": "/recipesfindr/static/media/header-logo.91ee67bd9c438b9e9b29.png",
+    "index.html": "/recipesfindr/index.html",
+    "static/media/refresh-icon.svg": "/recipesfindr/static/media/refresh-icon.dd94ae5c7639ee11f44e.svg",
+    "static/media/search-icon.svg": "/recipesfindr/static/media/search-icon.f98b02464f8e2380753ce9cdc24d0c20.svg",
+    "main.f64bad81.css.map": "/recipesfindr/static/css/main.f64bad81.css.map",
+    "main.2952af88.js.map": "/recipesfindr/static/js/main.2952af88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f64bad81.css",
+    "static/js/main.2952af88.js"
+  ]
+}
