@@ -8,7 +8,6 @@ export default function Hero(props) {
             <h1 className="hero--title">Cook n' Enjoy</h1>
             <div className="hero--input">
                 <input className="input" onKeyPress={props.getData} placeholder="Find something to Cook"/>
-                <button className="refresh-icon" onClick={props.fetchData} />
                 <button className="search-icon" onClick={props.getData} />
             </div>
         </main>

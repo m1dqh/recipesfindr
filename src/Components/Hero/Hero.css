@@ -60,7 +60,7 @@
     cursor: auto;
 }
 
-.search-icon, .refresh-icon {
+.search-icon {
     height: 100%;
     width: 1.2rem;
     background-image: url("../../assets/search-icon.svg");
@@ -71,8 +71,4 @@
     border: none;
     outline: none;
     cursor: pointer;
-}
-
-.refresh-icon {
-    background-image: url("../../assets/refresh-icon.svg");
 }
