@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+:root {
+    --primary-clr: #0b8141;
+    --neutral-clr: #f4f4f4;
+    --fw-200: 200;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: #cce2c8;
+    z-index: 20;
+}
+
+.nav--logo {
+    display: flex;
+    color: var(--primary-clr);
+    align-items: center;
+    height: 10vh;
+}
+
+.logo {
+    height: 80%;
+    margin-right: .8em;
+}
+
+.title {
+    font-weight: var(--fw-200);
+}

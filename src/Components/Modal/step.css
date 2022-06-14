@@ -1,0 +1,33 @@
+.preparation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.preparation--title {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(237, 175, 57, 1);
+    height: 42px;
+    width: 42px;
+    border-radius: 50%;
+    font-size: 1.2rem;
+    margin-block: .4em;
+    margin-right: 1em;
+    font-weight: 400;
+    color: #ffffff;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(45, 45, 45, 0.3) 0px 6px 6px;
+}
+
+.preparation--paragraph {
+    font-size: 1rem;
+    width: 80%;
+    text-align: center;
+    line-height: 140%;
+    font-weight: 400;
+    color: #fafafa;
+
+}
