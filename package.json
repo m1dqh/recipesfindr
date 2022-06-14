@@ -1,8 +1,8 @@
 {
-    "homepage": "https://m1dqh.github.io/recipesfindr",
   "name": "recipesfindr",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://m1dqh.github.io/recipesfindr/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
